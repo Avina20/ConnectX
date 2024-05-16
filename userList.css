@@ -1,0 +1,10 @@
+#usersList {
+  position: absolute;
+  width: 100%;
+  margin-top: 38px;
+  background-color: white;
+  border: 1px solid #ced4da;
+  border-top: none;
+  border-radius: 0 0 0.25rem 0.25rem;
+  z-index: 1000;
+}
